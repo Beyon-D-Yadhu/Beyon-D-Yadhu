@@ -72,7 +72,14 @@ You can click the Preview link to take a look at your changes.
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,linux,curl" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,linux" />
+  </a>
+</p>
+
+- Other Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,java,html,css" />
   </a>
 </p>
 
