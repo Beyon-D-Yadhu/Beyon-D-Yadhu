@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
   
 - 🌱 I’m currently learning mern stack 
     
-- 💬 Ask me about **NodeJS | React | MongoDB | Express**
+- 💬 Ask me about ** MongoDB | Express | React | NodeJS **
 
 - 📫 How to reach me **yadhuy28@gmail.com**
 
