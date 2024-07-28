@@ -5,7 +5,7 @@
 Beyon-D-Yadhu/Beyon-D-Yadhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<div align="center">
+<div justify="center">
 <!--   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" /> -->
 <!--   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" /> -->
 <!--   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" /> -->
@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <br>
-<div align="center">
+<div justify="center">
 <!--   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" /> -->
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
