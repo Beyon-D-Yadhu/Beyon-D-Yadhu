@@ -58,7 +58,7 @@ You can click the Preview link to take a look at your changes.
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" />
   </a>
 </p>
 
