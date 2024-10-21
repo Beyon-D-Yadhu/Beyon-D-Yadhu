@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **yadhuy28@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ Fun fact **Code by day, debug by night**
 
 <br>
 <h3 margin-top='100px' align="left">Languages and Tools:</h3>
