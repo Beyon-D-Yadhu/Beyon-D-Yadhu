@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 <br><br>
 - 👋 Hi, I’m Yadhu Krishnan
 
-- 👀 I’m interested in Programming
+- 👀 I’m interested in Open-source contributions and collaborative coding 💻
   
 - 🌱 I’m currently learning mern stack 
     
