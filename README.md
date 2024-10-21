@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👀 I’m interested in Open-source contributions and collaborative coding 💻
   
-- 🌱 I’m currently learning mern stack 
+- 🌱 Currently exploring the depths of the MERN stack
     
 - 💬 Ask me about ** MongoDB | Express | React | NodeJS **
 
