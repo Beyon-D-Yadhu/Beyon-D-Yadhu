@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
-- 👋 Hi, I’m Yadhu
+- 👋 Hi, I’m Yadhu Krishnan
 
 - 👀 I’m interested in Programming
   
